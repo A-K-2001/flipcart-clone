@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/flipcart-clone/static/css/main.db722d0f.css",
+    "main.js": "/flipcart-clone/static/js/main.b0f8db74.js",
+    "static/js/787.09914953.chunk.js": "/flipcart-clone/static/js/787.09914953.chunk.js",
+    "static/media/logo.svg": "/flipcart-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/flipcart-clone/index.html",
+    "main.db722d0f.css.map": "/flipcart-clone/static/css/main.db722d0f.css.map",
+    "main.b0f8db74.js.map": "/flipcart-clone/static/js/main.b0f8db74.js.map",
+    "787.09914953.chunk.js.map": "/flipcart-clone/static/js/787.09914953.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db722d0f.css",
+    "static/js/main.b0f8db74.js"
+  ]
+}
